@@ -55,6 +55,7 @@ Note:
 ## 本日の発表
 
 + antimon2: Julia 新 LTS v1.10 解説
++ [ごまふあざらし:（Pluto 周りの小話）](https://qiita.com/SatoshiTerasaki/items/95a13ce7af7aacf0b618)
 
 ---
 
